@@ -1,0 +1,473 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    height: 226px;
+    background-color: white;
+
+}
+.first-nav{
+    height: 71px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid;
+    border-color: black;
+}
+.first-nav img {
+    height: 22px;
+    width: 28px;
+    margin-top: 30px;
+}
+.first-nav p {
+    margin: 32px 0px 0px 18px;
+    font-size: 21px;
+}
+.first-nav button {
+    height: 45px;
+    width: 138px;
+    margin: 20px 0px 0px 17px;
+    border-radius: 27px;
+    color: white;
+    background-color: black;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.second-nav img {
+    width: 4%;
+    margin: 53px 0px 0px 191px;
+}
+.second-nav a {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 60px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 12px;
+    color: black;
+}
+.third-nav img {
+    width: 24px;
+    margin: -88px 0px 0px 1262px;
+    height: 20px;
+}
+.third-nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.navigation img{
+    width: 108px;
+    margin-inline: 10px;
+    margin-top: 2px;
+    margin-left: -66px;
+}
+.navigation h4{
+    margin-inline: 21px;
+    margin-top: 5px;
+} 
+.navigation{
+    margin-left: -770px;
+    padding-bottom:32px;
+}
+.panel{
+    display: flex;
+    padding-top: -28px;
+    margin-top: -67px;
+    margin-left: -670px;
+
+}
+.panel h4{
+    padding-right: 10px;
+}
+.foure{
+    padding-left: 446px;
+    padding-top: -30px;
+    margin-top: -5px;
+    margin-left: 105px;
+}
+
+nav h4{
+    margin-top: 5px;
+}
+nav h4:hover{
+    margin-top: -1px;
+    cursor: pointer;
+}
+nav img{
+    width: 4%; 
+}
+.navbar{
+    display: flex;
+    text-align: center;
+    background-color: rgb(10, 10, 10);
+    padding: 17px;
+    color: white;
+    justify-content: center;
+}
+.navbar button{
+    margin-inline: 11px;
+    width: 160px;
+    height: 37px;
+    background-color: rgb(241, 03, 39);
+    color: white;
+    border: none;
+    border-radius: 22px;
+    font-size: 19px;
+}
+.main img{
+    width: 100%;
+}
+h2{
+    margin-left: 42px;
+    padding: 11px;
+    margin-top: 11px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 22px;
+    
+}
+.card .crds img{
+    width: 70%;
+}
+
+.crd{
+    padding: 28px;
+}
+.crd{
+    padding-left: 15px;
+}
+.food{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: -44px 0px 0px 92px;
+    height: 718px;
+    background-color: black;
+    
+}
+.img-1 button{
+ 
+    height: 406px;
+    border-radius: 14px;
+    width: 320px;
+    margin: 10px 39px 0px 0px;
+    margin-top: 256px;
+}
+.img-2 button{
+   
+    height: 406px;
+    border-radius: 14px;
+    width: 320px;
+    margin: 10px 39px 0px 0px;
+    margin-top: 256px;
+}
+.img-3 button{
+    
+    height: 406px;
+    border-radius: 14px;
+    width: 320px;
+    margin: 10px 39px 0px 0px;
+    margin-top: 256px;
+}
+.img-4 button{
+    
+    height: 406px;
+    border-radius: 14px;
+    width: 320px;
+    margin: 10px 39px 0px 0px;
+    margin-top: 256px;
+}
+.crd-img{
+    border-radius: 50px;
+}
+.s-card .a-card img{
+    width: 88%;
+    border-radius: 50px;
+}
+.s-crd .inner{
+    width: 280px;
+    height: 50px;
+    padding: 22px;
+    background-color: rgb(202, 199, 199);
+    margin-left: 39px;
+    margin-top: -11px;
+}
+.s-crd button{
+    width: 160px;
+    height: 40px;
+    background-color: rgb(241, 39, 4);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    font-size: 18px;
+}
+.footer{
+    
+    background-color: black;
+    color: white;
+    height: 1200px;
+}
+
+.s-crd{
+    display: flex;
+    flex-direction: column;
+    padding: 104px;
+    flex-wrap: nowrap;
+}
+.s-crd img{
+    width: 392px;
+}
+.s-crd h3{
+    color: rgb(17, 16, 16);
+    background: white;
+}
+.img-1 img{
+    height: 210px;
+    width: 317px;
+    margin: -60px 0px 0px 0px;
+    border-radius: 13px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.img-1 a{
+    margin: 0px 47px 0px -8px;
+    color: black;
+    font-weight: 700;
+}
+.img-1 input{
+    height: 36px;
+    border-radius: 18px;
+    width: 91px;
+    cursor: pointer;
+}
+.img-1 input:hover{
+    color: white;
+    background-color: black;
+}
+.img-1 h1{
+    color: rgb(202, 21, 21);
+}
+.img-2 img{
+    height: 210px;
+    width: 317px;
+    margin: -83px 0px 0px -1px;
+    border-radius: 13px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.img-2 a{
+    margin: 0px 47px 0px -8px;
+    color: black;
+    font-weight: 700;
+}
+.img-2 input{
+    height: 36px;
+    border-radius: 18px;
+    width: 91px;
+    cursor: pointer;
+}
+.img-2 input:hover{
+    color: white;
+    background-color: black;
+}
+.img-2 h1{
+    color: rgb(202, 21, 21);
+}
+.img-3 img{
+    height: 210px;
+    width: 317px;
+    margin: -63px 0px 0px 0px;
+    border-radius: 13px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.img-3 a{
+    margin: 0px 47px 0px -8px;
+    color: black;
+    font-weight: 700;
+}
+.img-3 input{
+    height: 36px;
+    border-radius: 18px;
+    width: 91px;
+    cursor: pointer;
+}
+.img-3 input:hover{
+    color: white;
+    background-color: black;
+}
+.img-3 h1{
+    color: rgb(202, 21, 21);
+}
+
+.img-4 img{
+    height: 210px;
+    width: 317px;
+    margin: -74px 0px 0px 0px;
+    border-radius: 13px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.img-4 a{
+    margin: 0px 47px 0px -8px;
+    color: black;
+    font-weight: 700;
+}
+.img-4 input{
+    height: 36px;
+    border-radius: 18px;
+    width: 91px;
+    cursor: pointer;
+}
+.img-4 input:hover{
+    color: white;
+    background-color: black;
+}
+.img-4 h1{
+    color: rgb(202, 21, 21);
+}
+.h1-footer{
+   
+    margin: 161px -280px 0px 0px;
+
+}
+.rect{
+    display: flex;
+
+}
+.rect-1{
+    background-color: red;
+    height: 44px;
+    margin: 0px 0px 0px 138px;
+    width: 18px;
+}
+.rect-2{
+    background-color: red;
+    height: 44px;
+    margin: 0px 0px 0px 20px;
+    width: 18px;
+}
+.rect-3{
+    background-color: red;
+    height: 44px;
+    margin: 0px 0px 0px 20px;
+    width: 18px;
+}
+.footer-list{
+    margin: 126px 0px 0px 0px;
+    display: flex;
+}
+.footer-logo img{
+    height: 54px;
+    width: 57px;
+    margin: 17px 0px 0px 120px;
+
+}
+.list{
+    padding-left: 30px;
+}
+.list p{
+    padding: 0px 0px 0px 0px;
+}
+.footer-nav img{
+    height: 16px;
+    width: 17px;
+    margin: 14px 0px 0px 0px;
+}
+.footer-nav{
+    display: flex;
+    margin: 0px 0px 0px 85px;
+}
+.applestore img{
+    height: 44px;
+    width: 138px;
+    margin: 14px 0px 0px 32px;  
+}
+.playstore img{
+    height: 44px;
+    width: 138px;
+    margin: 14px 0px 0px 86px;  
+}
+.copyright{
+    position: relative;
+}
+.copyright h6{
+    position: absolute;
+    top: 340px;
+    left: -845px;
+}
+.welcome-kfc{
+    font-family: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 39px;
+    letter-spacing: -3px;
+    padding: 0px 0px 0px 0px;
+    line-height: 58px;
+    text-transform: uppercase;
+    color: #202124;
+    margin-top: 29.71px;
+    margin-bottom: 30px;
+    margin-left: 94px;
+    display: flex;
+    flex-direction: column;
+}
+.footer-list p{
+    padding: 18px 0px 0px 0px;
+}
+.footer-nav a{
+    margin: 14px 0px 0px 0px;
+}
+.logo-1 img{
+    height: 20px;
+    border-radius: 2px;
+}
+.social-logo{
+    display: flex;
+}
+.logo-1 button{
+    
+    margin: 303px 0px 0px -211px;
+    width: 25px;
+    height: 24px;
+    border-radius: 74px;
+
+}
+.logo-2 button{
+    
+    margin: 303px 0px 0px -169px;
+    width: 25px;
+    height: 24px;
+    border-radius: 74px;
+
+}
+.logo-2 img{
+    height: 20px;
+    border-radius: 2px;
+}
+.logo-3 button{
+    
+    margin:303px 0px 0px -127px;
+    width: 25px;
+    height: 24px;
+    border-radius: 74px;
+
+}
+.logo-3 img{
+    height: 20px;
+    border-radius: 2px;
+}
